@@ -1,7 +1,9 @@
 # Summary
 
 * [Introdução](README.md)
+   * [Rascunho de idéias](rascunho_de_ideias.md)
    * [Analogia Biológica](analogia_biologica.md)
+   * [Sumário](sumario.md)
 * [Polimorfismo](polimorfismo/README.md)
 * [Abstração](abstracao/README.md)
 * [Encapsulamento](encapsulamento/README.md)
